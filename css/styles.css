@@ -15,7 +15,7 @@ nav ul li {
     padding-right: 25px;
 }
 #welcome {
-    background-image: url("./../images/images.jpeg");
+    background-image:url("./../images/images.jpeg");
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
