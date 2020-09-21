@@ -2,7 +2,7 @@ body {
 background-color: grey;
 }
 .introduction {
-    line-height: 40px;
+    line-height: 70px;
     text-align: center;
 }
 nav {
@@ -33,9 +33,10 @@ nav ul li {
     width:70%;
     font-size: 15px;
 }.single-project img {
-height: 300px;
-width: 350;
+height: 400px;
+width: 450;
 }
 #project {
-    width:60%;
+    width:80%;
+    
 }
